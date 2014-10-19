@@ -9,6 +9,16 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>Pods-MagicalRecord.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PKRevealController.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-Reachability.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -22,17 +32,27 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>813C74CE120AEC7F57011B02</key>
+		<key>57F132957470BFBAC2168688</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E44D8F429B0B10B1E9C1EE72</key>
+		<key>69059B47CFBC0E946207C795</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>FA21948681C90391E46D4E52</key>
+		<key>7CA490C15E636155870F63EA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>90AB003137BF8067981FA104</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>FCAF1BF07EE72FA08C32366B</key>
 		<dict>
 			<key>primary</key>
 			<true/>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>25E5E890-2D5B-4E5C-B91C-9105BAA4E277</string>
+	<key>IDESourceControlProjectName</key>
+	<string>KitStarterIOS</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DBD81D46F4030BDB864F63670ACF6730DAC2C210</key>
+		<string>https://github.com/AntMarq/IOSPROJECT.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>KitStarterIOS.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DBD81D46F4030BDB864F63670ACF6730DAC2C210</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AntMarq/IOSPROJECT.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DBD81D46F4030BDB864F63670ACF6730DAC2C210</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DBD81D46F4030BDB864F63670ACF6730DAC2C210</string>
+			<key>IDESourceControlWCCName</key>
+			<string>KitStarterIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,4 +1,6 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, '6.0'
 pod 'AFNetworking', '~> 2.0'
-pod 'Reachability'
+pod 'Reachability', '~> 3.1.1'
+pod 'PKRevealController', '~> 2.0.6'
+pod 'MagicalRecord', '~> 2.2'
